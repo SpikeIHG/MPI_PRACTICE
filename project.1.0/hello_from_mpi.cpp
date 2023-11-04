@@ -1,5 +1,6 @@
 #include<iostream>
 #include<mpi.h>
+#include<string.h>
 using namespace std;
 
 const int MAX_STRING=100;
