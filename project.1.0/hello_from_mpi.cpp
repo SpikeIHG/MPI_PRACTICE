@@ -1,6 +1,7 @@
 #include<iostream>
 #include<mpi.h>
 #include<string.h>
+#include<omp.h>
 using namespace std;
 
 const int MAX_STRING=100;
